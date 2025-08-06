@@ -94,7 +94,7 @@ Each story entry is an object with the following fields:
 You can fetch the `stories.json` file directly from GitHub’s raw file link:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/qalb-stories/main/stories.json
+https://raw.githubusercontent.com/rasenga223/qalb-stories/main/stories.json
 ```
 
 ---
@@ -105,7 +105,7 @@ Example in **React Native / JavaScript**:
 
 ```javascript
 const fetchStories = async () => {
-  const url = "https://raw.githubusercontent.com/YOUR_USERNAME/qalb-stories/main/stories.json";
+  const url = "https://raw.githubusercontent.com/rasenga223/qalb-stories/main/stories.json";
   const res = await fetch(url);
   const data = await res.json();
   return data;
@@ -119,7 +119,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const getStories = async () => {
   try {
-    const res = await fetch("https://raw.githubusercontent.com/YOUR_USERNAME/qalb-stories/main/stories.json");
+    const res = await fetch("https://raw.githubusercontent.com/rasenga223/qalb-stories/main/stories.json");
     const stories = await res.json();
     await AsyncStorage.setItem('stories', JSON.stringify(stories));
     return stories;
