@@ -25,6 +25,7 @@ Each story entry is an object with the following fields:
 | ------------- | ------ | -------------------------------------------------------------------------- |
 | `id`          | Number | Unique story ID                                                            |
 | `title`       | String | Name of the story                                                          |
+| `category`    | String | Story category. Must be one of the predefined enums (see below).           |
 | `languages`   | Object | Key-value pairs of language codes and their story links (audio/text/video) |
 | `image`       | String | URL to a thumbnail image for the story                                     |
 | `description` | String | Short summary of the story                                                 |
@@ -35,10 +36,44 @@ Each story entry is an object with the following fields:
 ## 📄 Example
 
 ```json
+
+---
+
+## 📝 Story JSON Format
+
+Each story entry is an object with the following fields:
+
+| Field         | Type   | Description                                                                |
+| ------------- | ------ | -------------------------------------------------------------------------- |
+| `id`          | Number | Unique story ID                                                            |
+| `title`       | String | Name of the story                                                          |
+| `category`    | String | Story category. Must be one of the predefined enums (see below).           |
+| `languages`   | Object | Key-value pairs of language codes and their story links (audio/text/video) |
+| `image`       | String | URL to a thumbnail image for the story                                     |
+| `description` | String | Short summary of the story                                                 |
+| `source`      | String | Reference to the original source (e.g., book, hadith collection, etc.)     |
+
+---
+
+## 📚 Predefined Categories (enum)
+
+- `prophet_stories`  
+- `bedtime_stories`  
+- `islamic_knowledge`  
+- `ramadan_series`  
+- `barzakh`  
+- *(Add more categories as needed by opening an issue or PR)*
+
+---
+
+## 📄 Example
+
+```json
 [
   {
     "id": 1,
     "title": "Prophet Adam (AS)",
+    "category": "prophet_stories",
     "languages": {
       "english": "https://soundcloud.com/safarpublications/adam-english",
       "arabic": "https://soundcloud.com/safarpublications/adam-arabic",
@@ -49,6 +84,7 @@ Each story entry is an object with the following fields:
     "source": "Qasas al-Anbiya by Ibn Kathir"
   }
 ]
+
 ```
 
 ---
@@ -141,6 +177,7 @@ We welcome contributions from the community to expand this library of authentic 
 {
   "id": 2,
   "title": "Prophet Nuh (AS)",
+  "category": "prophet_stories",
   "languages": {
     "english": "https://soundcloud.com/safarpublications/nuh-english"
   },
