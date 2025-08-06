@@ -50,5 +50,55 @@
     "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-hud-short-series-image.png",
     "description": "The story of Prophet Hud (AS) who was sent to the people of 'Ad to call them to the worship of Allah alone. They were a powerful, wealthy, and arrogant people who refused his message, and were subsequently destroyed by a furious wind.",
     "source": "Qalb"
+  },
+
+
+
+
+  #bedtime-stories bedtime_stories
+  {
+    "id": 101,
+    "title": "The Night Journey to Jerusalem and the Heavens - Part 1",
+    "category": "bedtime_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/Bedtime%20Stories%20-%20The%20Night%20Journey%20To%20Jerusalem%20And%20The%20Heavens%20Part%201%20-%20Safar%20Publications%20-%20SoundLoadMate.com.mp3"
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-night-journey-part-1.png",
+    "description": "Part 1 of the story of Al-Isra' wal-Mi'raj, the miraculous night journey and ascension of the Prophet Muhammad (ﷺ).",
+    "source": "Safar Publications - Mawlānā Kamal Khan"
+  },
+  {
+    "id": 102,
+    "title": "The Night Journey to Jerusalem and the Heavens - Part 2",
+    "category": "bedtime_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/Bedtime%20Stories%20-%20The%20Night%20Journey%20To%20Jerusalem%20And%20The%20Heavens%20Part%202%20-%20Safar%20Publications%20-%20SoundLoadMate.com.mp3"
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-night-journey-part-2.png",
+    "description": "Part 2 of the story of Al-Isra' wal-Mi'raj",
+    "source": "Safar Publications - Mawlānā Kamal Khan"
+  },
+  {
+    "id": 103,
+    "title": "The Night Journey to Jerusalem and the Heavens - Part 3",
+    "category": "bedtime_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/Bedtime%20Stories%20-%20The%20Night%20Journey%20To%20Jerusalem%20And%20The%20Heavens%20Part%203%20Final%20-%20Safar%20Publications%20-%20SoundLoadMate.com.mp3"
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-night-journey-part-3.png",
+    "description": "Part 3 of the story of Al-Isra' wal-Mi'raj",
+    "source": "Safar Publications - Mawlānā Kamal Khan"
+  },
+  {
+    "id": 104,
+    "title": "The Night Journey to Jerusalem and the Heavens - Part 4 (Final)",
+    "category": "bedtime_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/Bedtime%20Stories%20-%20The%20Night%20Journey%20To%20Jerusalem%20And%20The%20Heavens%20Part%204%20-%20Safar%20Publications%20-%20SoundLoadMate.com.mp3"
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-night-journey-part-4.png",
+    "description": "Final part of the story of Al-Isra' wal-Mi'raj",
+    "source": "Safar Publications - Mawlānā Kamal Khan"
   }
+
 ]
