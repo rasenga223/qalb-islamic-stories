@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "The Story of Prophet Adam (AS) - Short Series",
+    "category": "prophet_series_short_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-adam-short-series-en.mp3",
+      "arabic": "",
+      "french": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-adam-short-series-fr.mp3"
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-adam-short-series-image.png",
+    "description": "The first human created by Allah, father of mankind.",
+    "source": "Qalb"
+  }
+]
