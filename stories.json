@@ -25,7 +25,7 @@
     "description": "A revered prophet, known as Idris in Islam, who lived after Adam and before Nuh, recognized for his piety, knowledge, and ascension to the heavens.",
     "source": "Qalb"
   },
-{
+  {
     "id": 3,
     "title": "The Story of Prophet Nuh (Noah) (AS) - Short Series",
     "category": "prophet_series_short_stories",
@@ -38,7 +38,7 @@
     "description": "A prophet known for calling his people to monotheism for centuries and for building the Ark to save believers and pairs of all creatures from the Great Flood.",
     "source": "Qalb"
   },
-{
+  {
     "id": 4,
     "title": "The Story of Prophet Hud (AS) - Short Series",
     "category": "prophet_series_short_stories",
@@ -51,11 +51,6 @@
     "description": "The story of Prophet Hud (AS) who was sent to the people of 'Ad to call them to the worship of Allah alone. They were a powerful, wealthy, and arrogant people who refused his message, and were subsequently destroyed by a furious wind.",
     "source": "Qalb"
   },
-
-
-
-
-  #bedtime-stories bedtime_stories
   {
     "id": 101,
     "title": "The Night Journey to Jerusalem and the Heavens - Part 1",
@@ -100,5 +95,5 @@
     "description": "Final part of the story of Al-Isra' wal-Mi'raj",
     "source": "Safar Publications - Mawlānā Kamal Khan"
   }
-
 ]
+
