@@ -11,5 +11,31 @@
     "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-adam-short-series-image.png",
     "description": "The first human created by Allah, father of mankind.",
     "source": "Qalb"
+  },
+  {
+    "id": 2,
+    "title": "The Story of Prophet Idris (Enoch) (AS) - Short Series",
+    "category": "prophet_series_short_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-enoch-short-stories.mp3",
+      "arabic": "",
+      "french": ""
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-idris-short-stories-image.jpg",
+    "description": "A revered prophet, known as Idris in Islam, who lived after Adam and before Nuh, recognized for his piety, knowledge, and ascension to the heavens.",
+    "source": "Qalb"
+  },
+{
+    "id": 3,
+    "title": "The Story of Prophet Nuh (Noah) (AS) - Short Series",
+    "category": "prophet_series_short_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-nuh-short-stories-en.mp3",
+      "arabic": "",
+      "french": ""
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-nuh-short-series-inage.png",
+    "description": "A prophet known for calling his people to monotheism for centuries and for building the Ark to save believers and pairs of all creatures from the Great Flood.",
+    "source": "Qalb"
   }
 ]
