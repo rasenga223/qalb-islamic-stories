@@ -52,6 +52,33 @@
     "source": "Qalb"
   },
   {
+    "id": 5,
+    "title": "The Story of Prophet Salih (AS) - Short Series",
+    "category": "prophet_series_short_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-salih-short-stories.mp3",
+      "arabic": "",
+      "french": ""
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-salih-short-series-image.png",
+    "description": "The story of Prophet Salih (AS), sent to the people of Thamud, who demanded a miracle. When they killed the miraculous she-camel he brought, the tribe was destroyed by a great cry and an earthquake.",
+    "source": "Qalb"
+  },
+  {
+    "id": 6,
+    "title": "The Story of Prophet Ibrahim (AS) - Short Series",
+    "category": "prophet_series_short_stories",
+    "languages": {
+      "english": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-ibrahim-short-stories-en.mp3",
+      "arabic": "",
+      "french": ""
+    },
+    "image": "https://pub-8c50e21dc15a4aea8288a44417db03d0.r2.dev/the-prophet-ibrahim-short-stories-image.png",
+    "description": "Prophet Ibrahim, peace be upon him, was the friend of Allah, an unwavering monotheist who challenged his idolatrous people and was saved by a miracle from a fire. His life exemplifies complete submission and obedience to God, establishing him as a father figure for many nations.",
+    "source": "Qalb"
+  },
+  
+  {
     "id": 101,
     "title": "The Night Journey to Jerusalem and the Heavens - Part 1",
     "category": "bedtime_stories",
